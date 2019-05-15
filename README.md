@@ -23,6 +23,10 @@ BlackJack a classic casino game
 
 # How To Play?
 Clone the repo
+```sh
+$ cd repo
+$ python3 Play.py
+```
 
 
 # Contribute
@@ -31,8 +35,5 @@ Clone the repo
 * Code Refactor
 * Documentaion and Commenting [High Priority]
 
-```sh
-$ cd repo
-$ python3 Play.py
-```
+
 
