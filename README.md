@@ -1,6 +1,6 @@
 BlackJack a classic casino game
 
-#Overview of the game
+# Overview of the game
 * Dealer is the machine
 * A Players starts with 100 chips
 * If the hand is won, bet is added to chips total
@@ -9,7 +9,7 @@ BlackJack a classic casino game
     - eg: 4 of Hearts = 4pts
     - eg: 10 of Diamonfs = 10pts
 * Aces have 11pt or 1pts depending on players position in the game
-    - if the current hand of the player goes beyond 21 with the new hit and player holds an ace, his new value is adjusted to value = newCard_pts - 10
+    - if the current hand of the player goes beyond 21 with the new hit and player holds an ace, his new value is adjusted to value = original_value + newCard_pts - 10
 * Dealers Drwas card till it reaches a total hand value of 17
 
 # Who Wins
