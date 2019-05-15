@@ -25,7 +25,7 @@ BlackJack a classic casino game
 Clone the repo
 
 
-#Contribute
+# Contribute
 * Multiplayer Design
 * Adding User Interface [Godot Engine]
 * Code Refactor
